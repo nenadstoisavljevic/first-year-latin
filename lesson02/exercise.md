@@ -1,10 +1,10 @@
 # LESSON II
 
-**FIRST DECLENSION** --- *Continued*
+### **FIRST DECLENSION** &mdash; *Continued*
 
 **The Stem ends in a**
 
-The Direct Object --- Accusative Case
+The Direct Object &mdash; Accusative Case
 
 I)
 1. Galba praises the trumpet.

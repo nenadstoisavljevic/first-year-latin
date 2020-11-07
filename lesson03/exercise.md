@@ -1,6 +1,6 @@
 # LESSON III
 
-**FIRST CONJUGATION --- Ā-VERBS**
+### **FIRST CONJUGATION &mdash; Ā-VERBS**
 
 **Amō, amāre** (stem **amā-**), *love*
 

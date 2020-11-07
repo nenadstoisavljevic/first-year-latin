@@ -1,8 +1,8 @@
 # LESSON I
 
-**FIRST DECLENSION**
+### **FIRST DECLENSION**
 
-The Subject --- Nominative Case
+The Subject &mdash; Nominative Case
 
 **Singular and Plural of Nouns and Verbs**
 
