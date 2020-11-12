@@ -16,7 +16,7 @@ curl -LO nenadstoisavljevic.xyz/files/cdfyl.pdf
 
 See Nenad's website [here](https://nenadstoisavljevic.xyz). Email him at [nenad@nenadstoisavljevic.xyz](mailto:nenad@nenadstoisavljevic.xyz) for additional questions.
 
-# To-do
+## To-do
 
 - Finish translating the rest of the exercises and conversations of each lesson.
 - Create a small script that will allow users to search through the exercises, etc.
