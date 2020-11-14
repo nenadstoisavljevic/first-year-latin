@@ -12,12 +12,13 @@ curl -LO nenadstoisavljevic.xyz/files/cdfyl.pdf
 
 - Report any mistakes or suggestions that you may have for different translations of passages.
 - Open a PR to add new versions of your translations or if you would like to correct something.
+- Make sure that you make your changes in the LaTeX `translations.tex` files and be sure to compile them for their pdf outputs. If you can't compile the document for whatever reason, I can do it.
 - If you have benefited from this, you can donate to support me at [nenadstoisavljevic.xyz/donate](https://nenadstoisavljevic.xyz/donate.html).
 
-See Nenad's website [here](https://nenadstoisavljevic.xyz). Email him at [nenad@nenadstoisavljevic.xyz](mailto:nenad@nenadstoisavljevic.xyz) for additional questions.
+See my website [here](https://nenadstoisavljevic.xyz) for other stuff. Email me at [nenad@nenadstoisavljevic.xyz](mailto:nenad@nenadstoisavljevic.xyz) for additional questions.
 
 ## To-do
 
 - Finish translating the rest of the exercises and conversations of each lesson.
 - Create a small script that will allow users to search through the exercises, etc.
-- Reformat the lessons with PDF files for more accessibility.
+- ~~Reformat the lessons with PDF files for more accessibility~~ (All lessons now have pdf files attached to them).
